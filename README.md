@@ -1,9 +1,6 @@
-
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alinadirkhanloo/alinadirkhanloo/blob/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/alinadirkhanloo/alinadirkhanloo/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/alinadirkhanloo/alinadirkhanloo/blob/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img src="https://github.com/alinadirkhanloo/alinadirkhanloo/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 
 <!--
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
