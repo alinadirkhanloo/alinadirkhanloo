@@ -1,12 +1,10 @@
-<p align="center">
-  <img src="https://github.com/alinadirkhanloo/alinadirkhanloo/raw/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
 
+<p align='center'><img src="https://user-images.githubusercontent.com/37024258/223572376-d1d17f5d-b35f-4fe7-b226-33529953e5d2.jpg" alt="my banner" height="400"></p>
+  
 <!--
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file>
-<p align='center'><img src="https://user-images.githubusercontent.com/37024258/223572376-d1d17f5d-b35f-4fe7-b226-33529953e5d2.jpg" alt="my banner" height="400"></p>
- -->
+-->
  
 <h1 align='center'> Hi there 👋, I'm Ali 👩‍💻 </h1>
 
@@ -33,6 +31,12 @@ https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<fi
 
 #### Github Status
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=alinadirkhanloo&bg_color=00000000)](https://github.com/alinadirkhanloo) &nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinadirkhanloo&layout=compact)](https://github.com/alinadirkhanloo)
+
+<hr>
+
+<p align="center">
+  <img src="https://github.com/alinadirkhanloo/alinadirkhanloo/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 
 <!--
 **alinadirkhanloo/alinadirkhanloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
